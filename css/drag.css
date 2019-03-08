@@ -1,0 +1,40 @@
+
+
+
+/*拖拽特效*/
+.moon{
+	width:590px;
+	height: 350px;
+	border:1px solid;
+
+    margin:0px auto;
+}
+.moon ul{
+	width: 522px;
+	height: 300px;
+	border:1px solid green;
+	/* margin:25px auto; */
+	padding:0;
+}
+.moon ul li{
+	list-style:none;
+	width:172px;
+	height:98px;
+	float:left;
+	margin:0px;
+	border:1px dashed #1235F4;
+
+}
+.moon ul li .item{
+	width:172px;
+	height:98px;
+	cursor:pointer;
+	background: #ccc;
+}
+.moon ul li .item img{
+	width:172px;
+	height:98px;
+    border-radius: 6px;
+}
+
+
